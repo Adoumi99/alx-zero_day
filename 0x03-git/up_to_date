@@ -3,3 +3,4 @@ git commit
 git push
 git push --set-uptsream origin
 git checkout -b
+git pull
